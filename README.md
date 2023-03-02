@@ -1,2 +1,2 @@
 # homelab
-Docker Compose files used in my homelab
+Stuffs for my homelab setup
